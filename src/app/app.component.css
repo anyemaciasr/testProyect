@@ -59,6 +59,15 @@ button{
 label{
   font-size: 20px;
 }
+.cotenedor1{
+  margin: auto;
+  padding: 20px;
+  width: 700px;
+  border:2px solid rgb(245, 243, 243);
+  border-radius: 5px;
+  color: rgb(3, 24, 5);
+  background-color: rgb(244, 241, 241);
+}
 
 
   
